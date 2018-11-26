@@ -1,6 +1,6 @@
 # hello-world
 A short description
 
-A bit about me!
+No bit about me! or not
 
-a new proposed edit
+a even newer proposed edit
